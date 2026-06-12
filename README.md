@@ -1,8 +1,9 @@
-### chromedriver.exe
+### ChromeDriver
 
-将 `chromedriver.exe` 放到当前项目目录下。
+- **Linux（Snap Chromium）**：默认使用 `/snap/bin/chromium.chromedriver` 与 `/snap/bin/chromium`，无需手动下载
+- **Windows**：将 `chromedriver.exe` 放到当前项目目录下
 
-> 下载地址：https://googlechromelabs.github.io/chrome-for-testing/
+> Windows / x86 手动下载：https://googlechromelabs.github.io/chrome-for-testing/
 
 ### chrome_data 目录
 
